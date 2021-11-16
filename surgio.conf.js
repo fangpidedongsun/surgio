@@ -1,6 +1,6 @@
 module.exports = {
   artifacts: [],
-  urlBase: 'https://example.com/',
+  urlBase: 'https://surgio-production-fbdb.up.railway.app/',
   upload: {},
   binPath: {},
 };
