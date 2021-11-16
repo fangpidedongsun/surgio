@@ -84,7 +84,8 @@
     "pub": "np",
     "version": "npm run changelog && git add .",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "start": "node gateway.js"
   },
   "dependencies": {
     "@hapi/joi": "^17.1.1",
